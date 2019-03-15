@@ -1,0 +1,4 @@
+Overlay-shader - JNZ/Approved Discord-handle
+Overlay_shader rework - SigilObscura, Discord-handle
+Transition-shader - Proffesor Snake, Unity forums.
+Suggestions - Ronan Smith & Sigil-Obscura, Discord-handle
